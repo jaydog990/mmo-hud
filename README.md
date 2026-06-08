@@ -13,7 +13,7 @@ your character, your current target, and RuneLite party members.
 
 ## Known issue
 
-- After hopping worlds, the player portrait orb can disappear or stop refreshing until the player changes equipment. The HUD bars continue to update. This is being tracked before final Plugin Hub submission polish.
+- After hopping worlds, the player portrait orb can appear blank until the player changes equipment. Changing any gear refreshes the portrait. The HUD bars continue to update.
 
 ## Notes
 
